@@ -11,7 +11,6 @@
 </p>
 <p align="center">
 	<h3 align="center">Readme Template</h3>
-  <a href="https://github.com/redeagleap/readme-template/blob/master/TEMPLATE.md">TEMPLATE.md</a>
 	<p align="center">
     This is a small template README.md file for your projects!
   </p>
