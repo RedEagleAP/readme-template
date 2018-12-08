@@ -2,8 +2,8 @@
   <img src="https://lh3.googleusercontent.com/A0AmC31SEcpE9MtvQTo4DwXGTyGmvVsM5YL_QAk75uc1m0CvwsS7ovgifCFJXjFEJWNAb8DqIJY" alt="Logo">
 </p>
 <p align="center">
-  <a href="https://badge.fury.io/js/@redeagle/readme-template">
-  <img src="https://badge.fury.io/js/@redeagle/readme-template.svg" alt="npm version">
+  <a href="https://badge.fury.io/js/%40redeagle%2Freadme-template">
+  <img src="https://badge.fury.io/js/%40redeagle%2Freadme-template.svg" alt="npm version">
   </a>
   <a href="https://github.com/redeagleap/readme-template/blob/master/LICENSE">
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="License">
