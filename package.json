@@ -1,6 +1,6 @@
 {
-  "name": "readme--template",
-  "version": "0.9.9",
+  "name": "@redeagle/readme-template",
+  "version": "1.0.0",
   "description": "This is a small template README.md file for your projects!",
   "homepage": "https://github.com/redeagleap/readme-template#readme",
   "repository": {
