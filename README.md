@@ -2,8 +2,8 @@
   <img src="https://lh3.googleusercontent.com/A0AmC31SEcpE9MtvQTo4DwXGTyGmvVsM5YL_QAk75uc1m0CvwsS7ovgifCFJXjFEJWNAb8DqIJY" alt="Logo">
 </p>
 <p align="center">
-  <a href="https://badge.fury.io/js/readme-template">
-  <img src="https://badge.fury.io/js/readme-template.svg" alt="npm version">
+  <a href="https://badge.fury.io/js/@redeagle/readme-template">
+  <img src="https://badge.fury.io/js/@redeagle/readme-template.svg" alt="npm version">
   </a>
   <a href="https://github.com/redeagleap/readme-template/blob/master/LICENSE">
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="License">
@@ -43,10 +43,10 @@ Consider the process of writing the Readme file for your project as a true act o
 
 ```bash
 #Nostalgic
-$ npm install readme-template
+$ npm install @redeagle/readme-template
 
 #Hipster
-$ yarn add readme-template
+$ yarn add @redeagle/readme-template
 ```
 
 ### Clone the repo:
