@@ -1,0 +1,28 @@
+{
+  "name": "readme-template",
+  "version": "0.9.9",
+  "description": "This is a small template README.md file for your projects!",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/redeagleap/readme-template.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Alexander Prisyazhnyuk",
+    "email": "insightinyourmind@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/RedEagleAP/readme-template/issues"
+  },
+  "keywords": [
+    "boilerplate",
+    "readme",
+    "README.md",
+    "docs",
+    "startkit",
+    "template",
+    "front end",
+    "documentation"
+  ]
+}
