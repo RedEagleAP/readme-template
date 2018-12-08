@@ -1,8 +1,8 @@
 {
-  "name": "readme-template",
+  "name": "readme--template",
   "version": "0.9.9",
   "description": "This is a small template README.md file for your projects!",
-  "homepage": "",
+  "homepage": "https://github.com/redeagleap/readme-template#readme",
   "repository": {
     "type": "git",
     "url": "git://github.com/redeagleap/readme-template.git"
